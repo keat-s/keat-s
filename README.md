@@ -16,21 +16,9 @@
 
 ### About
 
-I work across three lanes that share more wiring than they look like they should:
+IT Infrastructure engineer with 3+ years building, automating, and operating production infrastructure end-to-end. At [UNEP-WCMC](https://www.unep-wcmc.org/) — a 230-staff UN-affiliated conservation research organisation — I cover the SRE remit: observability and alerting (Netdata, Zabbix, Power BI), capacity planning across a hyperconverged compute platform, Infrastructure-as-Code with Packer + Terraform, Dockerised PostgreSQL deployments, incident response and DR exercises (ISO22301-aligned), and security-by-default (Cyber Essentials, Conditional Access + MFA).
 
-- **Creative coding** — shader-driven interfaces, scroll-tracked typography, motion systems in Next.js / GSAP / Framer Motion.
-- **Research tooling** — small, sharp utilities for academics: literature workflows, Zotero augmentation, AI-assisted reading.
-- **Systems & sysadmin** — PowerShell, Bash, and Rust glue for infrastructure at Weill Cornell Medicine.
-
-Always interested in the place where careful UX meets messy real-world data.
-
----
-
-### Currently
-
-- Iterating on a portfolio that treats scroll as a first-class composition surface.
-- Shipping [`BeaverZotero`](https://github.com/keat-s) — an opinionated layer on top of Zotero for literature review.
-- Reading more than writing, lately. Trying to fix that.
+Certified AI Security Engineer (QASCAAISEC) and Azure Data Science Associate (DP-100). Currently MSc Data Analytics at Northumbria.
 
 ---
 
@@ -42,7 +30,6 @@ Always interested in the place where careful UX meets messy real-world data.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 
@@ -73,26 +60,6 @@ Always interested in the place where careful UX meets messy real-world data.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-
-</div>
-
----
-
-### Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keat-s&theme=github_dark" alt="Profile summary" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keat-s&theme=github_dark" alt="Repos per language" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keat-s&theme=github_dark" alt="Most-commit languages" height="180" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keat-s&theme=github_dark" alt="Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=keat-s&hide_border=true&background=0D1117&stroke=30363D&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="Streak" height="180" />
 
 </div>
 
