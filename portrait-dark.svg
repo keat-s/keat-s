@@ -1,6 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648 742" font-family="ui-monospace, SFMono-Regular, Menlo, 'JetBrains Mono', Consolas, monospace" role="img" aria-label="Keaton Aggarwal — animated ASCII portrait">
-<g fill="#e6edf3">
-<g font-size="36" font-weight="600" letter-spacing="2">
+<defs>
+<linearGradient id="cyan" gradientUnits="userSpaceOnUse" x1="0" y1="88" x2="0" y2="718">
+<stop offset="0%" stop-color="#a5f3fc">
+<animate attributeName="stop-color" values="#a5f3fc;#e0f7fa;#a5f3fc" dur="7s" repeatCount="indefinite"/>
+</stop>
+<stop offset="100%" stop-color="#06b6d4">
+<animate attributeName="stop-color" values="#06b6d4;#22d3ee;#06b6d4" dur="7s" repeatCount="indefinite"/>
+</stop>
+</linearGradient>
+</defs>
+<g font-size="36" font-weight="600" letter-spacing="2" fill="#e6edf3">
 <text x="176" y="60" opacity="0">K<animate attributeName="opacity" to="1" begin="0.00s" dur="0.5s" fill="freeze"/></text>
 <text x="195" y="60" opacity="0">e<animate attributeName="opacity" to="1" begin="0.09s" dur="0.5s" fill="freeze"/></text>
 <text x="215" y="60" opacity="0">a<animate attributeName="opacity" to="1" begin="0.16s" dur="0.5s" fill="freeze"/></text>
@@ -16,7 +25,7 @@
 <text x="433" y="60" opacity="0">a<animate attributeName="opacity" to="1" begin="0.94s" dur="0.5s" fill="freeze"/></text>
 <text x="453" y="60" opacity="0">l<animate attributeName="opacity" to="1" begin="1.00s" dur="0.5s" fill="freeze"/></text>
 </g>
-<g font-size="10">
+<g font-size="10" fill="url(#cyan)">
 <text x="24" y="98" opacity="0">.<animate attributeName="opacity" to="1" begin="4.22s" dur="0.35s" fill="freeze"/></text>
 <text x="30" y="98" opacity="0">.<animate attributeName="opacity" to="1" begin="4.48s" dur="0.35s" fill="freeze"/></text>
 <text x="36" y="98" opacity="0">.<animate attributeName="opacity" to="1" begin="4.13s" dur="0.35s" fill="freeze"/></text>
@@ -6316,4 +6325,4 @@
 <text x="612" y="718" opacity="0">.<animate attributeName="opacity" to="1" begin="4.64s" dur="0.35s" fill="freeze"/></text>
 <text x="618" y="718" opacity="0">.<animate attributeName="opacity" to="1" begin="4.17s" dur="0.35s" fill="freeze"/></text>
 </g>
-</g></svg>
+</svg>
