@@ -18,7 +18,7 @@
 
 ### About
 
-IT Infrastructure engineer with 3+ years building, automating, and operating production infrastructure end-to-end. At [UNEP-WCMC](https://www.unep-wcmc.org/):
+IT Infrastructure engineer with 3+ years building, automating, and operating production infrastructure end-to-end at [UNEP-WCMC](https://www.unep-wcmc.org/):
 
 - observability and alerting (Netdata, Zabbix, Power BI)
 - capacity planning across a hyperconverged compute platform
