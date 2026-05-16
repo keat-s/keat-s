@@ -16,7 +16,13 @@
 
 ### About
 
-IT Infrastructure engineer with 3+ years building, automating, and operating production infrastructure end-to-end. At [UNEP-WCMC](https://www.unep-wcmc.org/) — a 230-staff UN-affiliated conservation research organisation — I cover the SRE remit: observability and alerting (Netdata, Zabbix, Power BI), capacity planning across a hyperconverged compute platform, Infrastructure-as-Code with Packer + Terraform, Dockerised PostgreSQL deployments, incident response and DR exercises (ISO22301-aligned), and security-by-default (Cyber Essentials, Conditional Access + MFA).
+IT Infrastructure engineer with 3+ years building, automating, and operating production infrastructure end-to-end. At [UNEP-WCMC](https://www.unep-wcmc.org/) 
+
+- observability and alerting (Netdata, Zabbix, Power BI)
+- capacity planning across a hyperconverged compute platform
+- Infrastructure-as-Code with Packer + Terraform, Dockerised PostgreSQL deployments
+- incident response and DR exercises (ISO22301-aligned)
+- security-by-default (Cyber Essentials, Conditional Access + MFA)
 
 Certified AI Security Engineer (QASCAAISEC) and Azure Data Science Associate (DP-100). Currently MSc Data Analytics at Northumbria.
 
