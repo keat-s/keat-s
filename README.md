@@ -101,5 +101,5 @@ Certified AI Security Engineer (QASCAAISEC) and Azure Data Science Associate (DP
 </div>
 
 <div align="center">
-  <sub><em>"Make the boring thing fast and the interesting thing beautiful."</em></sub>
+  
 </div>
